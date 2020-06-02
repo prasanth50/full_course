@@ -1,0 +1,5 @@
+from module_cal import *
+a=int(input('Enter the value of a:'))
+b=int(input('Enter the value of b:'))
+c=mul(a,b)
+print(c)
